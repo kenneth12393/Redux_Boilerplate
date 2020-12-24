@@ -38,4 +38,9 @@ export default connect(mapStateToProps, { "neccessary actions" })(Component)
 3. redux-thunk
 
 You can install the dependencies above by copying this in your terminal:
+
+```bash
+
 npm i redux react-redux redux-thunk
+
+```
